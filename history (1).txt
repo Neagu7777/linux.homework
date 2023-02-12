@@ -1,0 +1,8 @@
+   0 mkdir -p /home/animals/dogs/pluto_goes.txt /home/animals/cats/garfield.txt /home/animals/fish/nemo.txt /home/humans  /home/humans/opt  /tmp/adam.txt  /tmp/evA.txt
+   1 mv /tmp/adam.txt  /home/humans/adam.txt
+   2 mv /tmp/evA.txt  /home/humans/opt/eva.txt
+   3 tree /home/
+   4 history
+   5 export_file homework1linux
+   6 export_file homework1.txt
+   7 history > history.txt
